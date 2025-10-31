@@ -41,8 +41,8 @@
    📘 Project Overview
    1. Describes the project purpose and workflow
    2. Displays key KPIs:
-       Total Stops
-       Total Arrests
+       Total Stops,
+       Total Arrests,
        Total Searches
    3. Includes charts like Top 5 Violations with High Arrest Rate and Most Common Stop Times
        
